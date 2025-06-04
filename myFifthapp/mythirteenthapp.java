@@ -1,5 +1,5 @@
 
-      public class mySeventhapp {
+      public class mythirteenthapp {
 
         public static void main(String[] args) {
             int n = 20; // Number to calculate factorial for
